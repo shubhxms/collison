@@ -1,8 +1,7 @@
 body {
+  font-family: Helvetica;
   font-size: 13px;
-  font-weight: 400;
   background: var(--background, white);
-  color: #333;
 }
  
  a{
@@ -39,8 +38,6 @@ a:hover{
 #menu li a {
   display: inline-block;
   color:  var(--link, #0864c7);
-  text-decoration: underline;
-  font-weight: 400;
 }
 
 #left {
@@ -87,11 +84,12 @@ h2{
   line-height: 18px;
 }
 
+li{
+  text-align: -webkit-match-parent;
+}
+
 .main li{
   margin-bottom: 0.7em;
-}
-.post + .post {
-  margin-top: 50px;
 }
 
 sup, sub {
