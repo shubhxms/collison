@@ -1,11 +1,8 @@
-
-
 body {
   font-size: 13px;
   font-weight: 400;
   background: var(--background, white);
   color: #333;
-  line-height: 18px;
 }
  
  a{
@@ -25,7 +22,7 @@ a:hover{
   margin-right: 20px;
   text-align: right;
   font-size: 13px;
-  width: 100px;  
+  width: 150px;  
 }
 
 #menu .title{
@@ -38,7 +35,6 @@ a:hover{
   list-style-type: none;
   margin: 0;
   padding: 0;
-   line-height: 1.3em;
 }
 
 #menu li a {
@@ -93,7 +89,7 @@ h2{
   color: #aaa;
 }
 
-main p, main ul {
+.main p, .main ul {
   line-height: 18px;
 }
 

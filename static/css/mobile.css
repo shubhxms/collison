@@ -1,5 +1,5 @@
 
-@media screen and (max-device-width: 720px){
+@media screen and (max-device-width: 600px){
 
 body{
   font-size: 40px !important;
@@ -64,7 +64,7 @@ p{
   width: 90%;
    font-size: 36px !important;
   margin-left: 5%;
-  line-height: 52px;
+  line-height: 46px;
 }
 }
 

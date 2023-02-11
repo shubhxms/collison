@@ -53,7 +53,7 @@ specialColor = "darkblue"
 
 [[menu.pages]]
   name = 'Pollution'
-  url = '/pages/pollution'
+  url = '/pollution'
 
 [[menu.pages]]
   name = 'Progress'
