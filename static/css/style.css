@@ -8,7 +8,6 @@ body {
  a{
   text-decoration: underline;
   text-decoration-color: var(--link, #0864c7);
-  text-decoration-thickness:  2px;
   color: var(--link, #0864c7);
  }
 
@@ -84,11 +83,6 @@ h2{
   text-decoration-color: var(--special, #3A6E35);
 }
 
-#content .byline, #content .byline a, #content .note {
-  font-size: 10px;
-  color: #aaa;
-}
-
 .main p, .main ul {
   line-height: 18px;
 }
@@ -96,33 +90,6 @@ h2{
 .main li{
   margin-bottom: 0.7em;
 }
-
-#content sup.note {
-  display: inline-block;
-  margin-top: -5px;
-}
-
-#content p.notop {
-  margin-top: 0;
-}
-
-#content .thanks {
-  margin-top: 2em;
-  padding-top: 1em;
-  border-top: 1px solid #eee;
-  margin-bottom: 4em;
-  font-size: smaller;
-  color: #777;
-}
-
-#content .thanks a {
-  color: #777;
-}
-
-#content li {
-  margin-bottom: 0.7em;
-}
-
 .post + .post {
   margin-top: 50px;
 }
