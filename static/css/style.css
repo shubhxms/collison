@@ -1,5 +1,4 @@
 body {
-  font-family: Helvetica;
   font-size: 13px;
   background: var(--background, white);
 }
@@ -24,6 +23,7 @@ a:hover{
 }
 
 #menu .title{
+  margin-bottom: 5px;
 }
 
 #menu ul {
