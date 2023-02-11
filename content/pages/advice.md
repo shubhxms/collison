@@ -1,5 +1,6 @@
 ---
 title: 'Advice'
+url: /advice
 ---
 
  Every now and again, someone emails me and asks for very general advice. (“How do I change the world?”) With the caveat that I’ve only lived a fraction of one life, and am still trying to figure things out, but I always have [bad advice](https://joodaloop.com/bad-advice) to give out.

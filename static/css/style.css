@@ -3,16 +3,16 @@
 body {
   font-size: 13px;
   font-weight: 400;
-  background: #fefefb ;
+  background: var(--background, white);
   color: #333;
   line-height: 18px;
 }
  
  a{
   text-decoration: underline;
-  text-decoration-color: var(--link);
+  text-decoration-color: var(--link, #0864c7);
   text-decoration-thickness:  2px;
-  color: var(--link);
+  color: var(--link, #0864c7);
  }
 
 a:hover{
@@ -43,7 +43,7 @@ a:hover{
 
 #menu li a {
   display: inline-block;
-  color:  var(--link);
+  color:  var(--link, #0864c7);
   text-decoration: underline;
   font-weight: 400;
 }
@@ -79,13 +79,13 @@ h2{
 }
 
 .special > * {
-  color: var(--special);
-  text-decoration-color: var(--special);
+  color: var(--special, #3A6E35);
+  text-decoration-color: var(--special, #3A6E35);
 }
 
 .special > *:hover {
-  color: var(--special);
-  text-decoration-color: var(--special);
+  color: var(--special, #3A6E35);
+  text-decoration-color: var(--special, #3A6E35);
 }
 
 #content .byline, #content .byline a, #content .note {

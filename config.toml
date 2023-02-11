@@ -1,10 +1,11 @@
 baseurl = "/"
 languageCode = "en-us"
 title = "collison"
-# Enter your tracking code to enable Google Analytics
-googleAnalytics = "UA-XXXXXXXX-Y"
 sectionPagesMenu = "main"
 pluralizelisttitles = false
+
+[permalinks]
+  pages = '/:title'
 
 [params]
 relativeURLs = true
@@ -13,18 +14,18 @@ mobileFriendly = true
 fontFamily = "Helvetica"
 fontLink = "https://fonts.googleapis.com/css2?family=Didact+Gothic&family=Vesper+Libre:wght@400;500;700&display=swap"
 themeColor = "#e30f00"
+backgroundColor = "#ffffff"
 specialColor = "darkblue"
-
 
 
 [menu]
 [[menu.pages]]
   name = 'About'
-  url = '/pages/about'
+  url = '/about'
 
 [[menu.pages]]
   name = 'Advice'
-  url = '/pages/advice'
+  url = '/advice'
 
 [[menu.pages]]
   name = 'Blog'
@@ -32,23 +33,23 @@ specialColor = "darkblue"
 
 [[menu.pages]]
   name = 'Bookshelf'
-  url = '/pages/bookshelf'
+  url = '/bookshelf'
 
 [[menu.pages]]
   name = 'Culture'
-  url = '/pages/culture'
+  url = '/culture'
 
 [[menu.pages]]
   name = 'Links'
-  url = '/pages/links'
+  url = '/links'
 
 [[menu.pages]]
   name = 'People'
-  url = '/pages/people'
+  url = '/people'
 
 [[menu.pages]]
   name = 'Fast'
-  url = '/pages/fast'
+  url = '/fast'
 
 [[menu.pages]]
   name = 'Pollution'
@@ -56,12 +57,12 @@ specialColor = "darkblue"
 
 [[menu.pages]]
   name = 'Progress'
-  url = '/pages/progress'
+  url = '/progress'
 
 [[menu.pages]]
   name = 'Questions'
-  url = '/pages/questions'
+  url = '/questions'
 
 [[menu.pages]]
   name = 'Work'
-  url = '/pages/work'
+  url = '/work'

@@ -1,6 +1,7 @@
 ---
 title: "Pollution"
 showtitle: false
+url: /pollution
 ---
 
 

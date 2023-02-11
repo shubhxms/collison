@@ -1,5 +1,6 @@
 ---
 title: 'About'
+url: /about
 ---
 
 ![Example image](/photos/catwhite.jpg)
@@ -16,5 +17,4 @@ I currently live on the internet at [joodaloop.com](https://joodaloop.com/). I g
 
 ### Elsewhere
  [stealsocks](https://github.com/stealsocks) on GitHub; [joodaloop](https://twitter.com/joodaloop) on Twitter.
-
 

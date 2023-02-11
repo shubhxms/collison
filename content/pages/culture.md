@@ -1,5 +1,6 @@
 ---
 title: "Culture"
+url: /culture
 ---
 
 A (nascent) list of interesting analyses of social change and culture. I’ll probably add more over time.

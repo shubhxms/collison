@@ -1,5 +1,6 @@
 ---
 title: "Progress"
+url: /progress
 ---
 
 In July 2019, Tyler Cowen and Patrick wrote a piece for the Atlantic entitled [We Need a New Science of Progress](https://www.theatlantic.com/science/archive/2019/07/we-need-new-science-progress/594946/). (It was in some ways a sequel to an [earlier article](https://www.theatlantic.com/science/archive/2018/11/diminishing-returns-science/575665/) that Michael Nielsen and Patrick wrote together.) 
