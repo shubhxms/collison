@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://collison.netlify.app"
 languageCode = "en-us"
 title = "Patrick Collison"
 sectionPagesMenu = "main"

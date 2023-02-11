@@ -2,17 +2,35 @@
 
 <html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
   <head>
-<link rel="stylesheet" href={{"css/style.css" | absURL}}>
-<link rel="stylesheet" href="{{if eq .Site.Params.mobileFriendly true}}
-{{ "css/mobile.css" | absURL }} 
-{{else}}
-{{ "css/style.css" | absURL}} 
+     <title> {{ .Title }} · {{ $.Site.Title }} </title>
+     <meta name="description" content="{{ .Description }}">
+    <link rel="stylesheet" href={{"css/style.css" | absURL}}>
+    <link rel="stylesheet" href="{{if eq .Site.Params.mobileFriendly true}}
+    {{ "css/mobile.css" | absURL }} 
+    {{else}}
+    {{ "css/style.css" | absURL}} 
 
-{{ end }}">
+    {{ end }}">
 
   <meta charset="utf-8">
+   <meta http-equiv="content-type" content="text/html;charset=utf-8" />
 
-  <title> {{ .Title }} · {{ $.Site.Title }} </title>
+   <link rel="apple-touch-icon" sizes="180x180"  href="/photos/card.jpg"> 
+   <link rel="icon" type="image/png" sizes="32x32" href="/photos/card.jpg"> 
+   <link rel="icon" type="image/png" sizes="16x16"  href="/photos/card.jpg"> 
+
+   <!-- Facebook Open Graph tags -->
+ <meta property="og:url" content="{{ .baseURL }}" />
+ <meta property="og:title" content="{{ .Title }}" />
+ <meta property="og:description" content="{{ .Description }}" />
+ <meta property="og:image" content="{{ .baseURL }}/photos/card.jpg" />
+
+ <!-- Twitter Card (large image card) tags -->
+ <meta name="twitter:card" content="summary">
+ <meta name="twitter:title" content="{{ .Title }}">
+ <meta name="twitter:description" content="{{ .Description }}" />
+ <meta name="twitter:image" content="{{ .baseURL }}/photos/card.jpg" />
+
 
   <style>
 
