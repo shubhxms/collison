@@ -1,0 +1,142 @@
+
+
+body {
+  font-size: 13px;
+  font-weight: 400;
+  background: #fefefb ;
+  color: #333;
+  line-height: 18px;
+}
+ 
+ a{
+  text-decoration: underline;
+  text-decoration-color: var(--link);
+  text-decoration-thickness:  2px;
+  color: var(--link);
+ }
+
+a:hover{
+  cursor: pointer;
+}
+
+#menu {
+  float: right;
+  margin-top: 25px;
+  margin-right: 20px;
+  text-align: right;
+  font-size: 13px;
+  width: 100px;  
+}
+
+#menu .title{
+  display: block;
+  margin-bottom: -3px;
+  padding-bottom: 0px;
+
+}
+#menu ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+   line-height: 1.3em;
+}
+
+#menu li a {
+  display: inline-block;
+  color:  var(--link);
+  text-decoration: underline;
+  font-weight: 400;
+}
+
+#left {
+  height: 1px;
+  float: left;
+  display: block;
+  min-width: 0;
+  overflow: hidden;
+  width: 200px;
+  margin: 0;
+  padding: 0;
+}
+
+.main {
+  margin-top: 15px;
+  float: left;
+  width: 500px;
+}
+
+h1, h2, h3 {
+   line-height: 1.2em;
+}
+
+h1, h3{
+  padding: 0px;
+  margin: 0px;
+}
+
+h2{
+  margin-top: 2em;
+}
+
+.special > * {
+  color: var(--special);
+  text-decoration-color: var(--special);
+}
+
+.special > *:hover {
+  color: var(--special);
+  text-decoration-color: var(--special);
+}
+
+#content .byline, #content .byline a, #content .note {
+  font-size: 10px;
+  color: #aaa;
+}
+
+main p, main ul {
+  line-height: 18px;
+}
+
+.main li{
+  margin-bottom: 0.7em;
+}
+
+#content sup.note {
+  display: inline-block;
+  margin-top: -5px;
+}
+
+#content p.notop {
+  margin-top: 0;
+}
+
+#content .thanks {
+  margin-top: 2em;
+  padding-top: 1em;
+  border-top: 1px solid #eee;
+  margin-bottom: 4em;
+  font-size: smaller;
+  color: #777;
+}
+
+#content .thanks a {
+  color: #777;
+}
+
+#content li {
+  margin-bottom: 0.7em;
+}
+
+.post + .post {
+  margin-top: 50px;
+}
+
+sup, sub {
+  vertical-align: baseline;
+  position: relative;
+  top: -0.4em;
+}
+sub { 
+  top: 0.4em; 
+}
+

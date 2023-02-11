@@ -1,0 +1,34 @@
+<head>
+
+<html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
+  <head>
+<link rel="stylesheet" href={{"css/style.css" | absURL}}>
+<link rel="stylesheet" href="{{if eq .Site.Params.mobileFriendly true}}
+{{ "css/mobile.css" | absURL }} 
+{{else}}
+{{ "css/style.css" | absURL}} 
+
+{{ end }}">
+
+  <meta charset="utf-8">
+
+
+
+  <title> {{ .Title }} · {{ $.Site.Title }} </title>
+
+  <style>
+
+@import url( {{$.Site.Params.fontLink}});
+
+
+    :root{
+  --link: {{$.Site.Params.themeColor}};
+  --special: {{$.Site.Params.specialColor}};
+
+}
+body {
+  font-family: {{$.Site.Params.fontFamily}}, sans-serif;}
+
+  </style>
+  </head>
+

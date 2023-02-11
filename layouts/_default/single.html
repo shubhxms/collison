@@ -1,0 +1,12 @@
+{{ define "main" }}
+
+       
+        {{ if .Params.showtitle }}
+            <h1> {{ .Title }} </h1>
+        {{ end }}
+         
+          {{ .Content }}
+     
+        </div>
+        
+{{ end }}
