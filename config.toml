@@ -1,6 +1,6 @@
 baseurl = "https://collison.netlify.app"
 languageCode = "en-us"
-title = "collison"
+title = "shubham"
 sectionPagesMenu = "main"
 pluralizelisttitles = false
 
@@ -11,58 +11,47 @@ pluralizelisttitles = false
 relativeURLs = true
 contentdir = "content"
 mobileFriendly = true
-fontFamily = "Myriad Pro"
-fontLink = "https://fonts.googleapis.com/css2?family=Didact+Gothic&family=Vesper+Libre:wght@400;500;700&display=swap"
-themeColor = "#e30f00"
+fontFamily = "Sree Krushnadevaraya"
+fontLink = "ttps://fonts.googleapis.com/css2?family=Sree+Krushnadevaraya&family=VT323&display=swap"
+themeColor = "#5998ff"
 backgroundColor = "#ffffff"
 specialColor = "darkblue"
 
 
 [menu]
+
 [[menu.pages]]
-  name = 'About'
+  name = 'about'
   url = '/about'
 
 [[menu.pages]]
-  name = 'Advice'
-  url = '/advice'
-
-[[menu.pages]]
-  name = 'Blog'
+  name = 'blog'
   url = '/blog'
 
 [[menu.pages]]
-  name = 'Bookshelf'
+  name = 'bookshelf'
   url = '/bookshelf'
 
 [[menu.pages]]
-  name = 'Culture'
+  name = 'culture'
   url = '/culture'
 
 [[menu.pages]]
-  name = 'Links'
+  name = 'links'
   url = '/links'
 
 [[menu.pages]]
-  name = 'People'
-  url = '/people'
-
-[[menu.pages]]
-  name = 'Fast'
+  name = 'now'
   url = '/fast'
 
 [[menu.pages]]
-  name = 'Pollution'
-  url = '/pollution'
-
-[[menu.pages]]
-  name = 'Progress'
-  url = '/progress'
-
-[[menu.pages]]
-  name = 'Questions'
+  name = 'contact'
   url = '/questions'
 
 [[menu.pages]]
-  name = 'Work'
+  name = 'work'
+  url = '/work'
+
+[[menu.pages]]
+  name = 'colophon'
   url = '/work'

@@ -1,6 +1,7 @@
 body {
-  font-size: 13px;
+  font-size: 25px;
   background: var(--background, white);
+  margin-top: 50px;
 }
  
  a{
@@ -15,14 +16,17 @@ a:hover{
 
 #menu {
   float: right;
-  margin-top: 30px;
-  margin-right: 20px;
+  margin-top: 5px;
+  margin-right: 350px;
   text-align: right;
-  font-size: 13px;
+  font-size: 22px;
   width: 150px;  
+  line-height: 1.3em;
 }
 
 #menu .title{
+  font-family: 'VT323', monospace;
+  font-size: larger;
 }
 
 #menu ul {
@@ -48,13 +52,15 @@ a:hover{
 }
 
 .main {
-  margin-top: 15px;
   float: left;
-  width: 500px;
+  width: 700px;
+  margin-left: 150px;
 }
+
 
 h1, h2, h3 {
    line-height: 1.2em;
+   font-family: 'VT323', monospace;
 }
 
 h1, h3{
@@ -77,7 +83,7 @@ h2{
 }
 
 .main p, .main ul {
-  line-height: 18px;
+  line-height: 1em;
 }
 
 li{
