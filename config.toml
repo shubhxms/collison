@@ -7,12 +7,14 @@ pluralizelisttitles = false
 [permalinks]
   pages = '/:title'
 
+
+
 [params]
 relativeURLs = true
 contentdir = "content"
 mobileFriendly = true
-fontFamily = "Sree Krushnadevaraya"
-fontLink = "ttps://fonts.googleapis.com/css2?family=Sree+Krushnadevaraya&family=VT323&display=swap"
+fontFamily = "Spectral"
+fontLink = "https://fonts.googleapis.com/css2?family=Karla&family=Spectral&family=VT323&display=swap"
 themeColor = "#5998ff"
 backgroundColor = "#ffffff"
 specialColor = "darkblue"
@@ -22,11 +24,27 @@ specialColor = "darkblue"
 
 [[menu.pages]]
   name = 'about'
-  url = '/about'
+  url = '/'
+
+[[menu.pages]]
+  name = 'now'
+  url = '/now'
+
+[[menu.pages]]
+  name = 'best'
+  url = '/best'
+
+[[menu.pages]]
+  name = 'craft'
+  url = '/craft'
 
 [[menu.pages]]
   name = 'blog'
   url = '/blog'
+
+[[menu.pages]]
+  name = 'links'
+  url = '/links'
 
 [[menu.pages]]
   name = 'bookshelf'
@@ -37,21 +55,6 @@ specialColor = "darkblue"
   url = '/culture'
 
 [[menu.pages]]
-  name = 'links'
-  url = '/links'
-
-[[menu.pages]]
-  name = 'now'
-  url = '/fast'
-
-[[menu.pages]]
-  name = 'contact'
-  url = '/questions'
-
-[[menu.pages]]
-  name = 'work'
-  url = '/work'
-
-[[menu.pages]]
   name = 'colophon'
-  url = '/work'
+  url = '/colophon'
+

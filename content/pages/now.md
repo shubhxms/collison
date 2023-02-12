@@ -1,6 +1,6 @@
 ---
-title: "Fast"
-url: /fast
+title: "now"
+url: /now
 ---
 
 Some examples of people quickly accomplishing ambitious things together.
