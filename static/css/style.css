@@ -1,7 +1,8 @@
 body {
-  font-size: 20px;
+  font-size: 18px;
   background: var(--background, white);
   margin-top: 50px;
+  margin-bottom:50px;
 }
  
  a{
@@ -12,14 +13,15 @@ body {
 
 a:hover{
   cursor: pointer;
+  text-decoration: underline double;
 }
 
 #menu {
   float: right;
-  margin-top: 5px;
-  margin-right: 200px;
-  text-align: right;
-  font-size: 18px;
+  margin-top: 10px;
+  margin-right: 150px;
+  text-align: end;
+  font-size: 17px;
   width: 150px;  
   line-height: 1.35em;
 }
@@ -54,7 +56,7 @@ a:hover{
 .main {
   float: left;
   width: 700px;
-  margin-left: 150px;
+  margin: 0 150px;
 }
 
 
@@ -83,7 +85,7 @@ h2{
 }
 
 .main p, .main ul {
-  line-height: 1.3em;
+  line-height: 1.25em;
 }
 
 li{

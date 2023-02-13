@@ -1,60 +1,71 @@
 baseurl = "https://collison.netlify.app"
 languageCode = "en-us"
-title = "shubham"
+title = "shubham shah"
 sectionPagesMenu = "main"
 pluralizelisttitles = false
 
 [permalinks]
   pages = '/:title'
 
-
+[markup.goldmark.renderer]
+unsafe= true
 
 [params]
 relativeURLs = true
 contentdir = "content"
 mobileFriendly = true
-fontFamily = "Spectral"
-fontLink = "https://fonts.googleapis.com/css2?family=Karla&family=Spectral&family=VT323&display=swap"
-themeColor = "#5998ff"
-backgroundColor = "#ffffff"
-specialColor = "darkblue"
-
+fontFamily = "Fraunces"
+fontLink = "https://fonts.googleapis.com/css2?family=Fraunces:opsz@9..144&family=Karla&family=Spectral&family=VT323&display=swap"
+themeColor = "#3877ff"
+backgroundColor = "#f2f6f7"
+specialColor = "#3877ff"
 
 [menu]
 
 [[menu.pages]]
   name = 'about'
   url = '/'
+  weight = 1
 
 [[menu.pages]]
-  name = 'now'
-  url = '/now'
-
-[[menu.pages]]
-  name = 'best'
-  url = '/best'
+  name = 'live'
+  url = '/live'
+  weight = 2
 
 [[menu.pages]]
   name = 'craft'
   url = '/craft'
+  weight = 2
+
+[[menu.pages]]
+  name = 'now'
+  url = '/now'
+  weight = 3
 
 [[menu.pages]]
   name = 'blog'
   url = '/blog'
+  weight = 4
+
+
+
+[[menu.pages]]
+  name = 'shelf'
+  url = '/bookshelf'
+  weight = 6
 
 [[menu.pages]]
   name = 'links'
   url = '/links'
+  weight = 7
 
 [[menu.pages]]
-  name = 'bookshelf'
-  url = '/bookshelf'
+  name = 'misc'
+  url = '/misc'
+  weight = 8
 
 [[menu.pages]]
-  name = 'culture'
-  url = '/culture'
-
-[[menu.pages]]
-  name = 'colophon'
-  url = '/colophon'
+  name = 'also see'
+  url = '/misc'
+  weight = 9
 
