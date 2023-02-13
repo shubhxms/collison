@@ -15,8 +15,7 @@ i am primarily learning more about backend (specifically APIs and databases), gr
 ### best work
 
 in the past, i have built some interesting stuff, the best of which includes:
-* dpapi
-* memo
+* todo
 
 i was also a part of [buildspace nights and weekends s2](https://buildspace.so/nights-weekends)
 

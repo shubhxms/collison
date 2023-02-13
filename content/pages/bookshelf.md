@@ -1,7 +1,7 @@
 ---
-title: 'Bookshelf'
+title: 'shelf'
 showtitle: true
-url: /bookshelf
+url: /shelf
 ---
 
 I sometimes post book recommendations on Twitter and people often respond asking if I have an overall list of books I think are worth reading. I don’t, and end up feeling a bit guilty about being so haphazard. So, maybe this will be interesting to some people: below is a fairly complete catalog of the physical books I own. I always enjoy reading others’ lists and browsing their bookshelves, so this intended to be a digital version of that. I’ve only read about half of the books here. (I guess I fall somewhere in the middle in the [Umberto Eco theory of the library](https://books.google.com/books?id=_ntDTaMUys8C&lpg=PT115&ots=E3jhWnG6aB&pg=PT124#v=onepage&q&f=false).)
