@@ -1,5 +1,5 @@
 body {
-  font-size: 14px;
+  font-size: 12px;
   background: var(--background, white);
   margin-top: 50px;
   margin-bottom:50px;
@@ -21,7 +21,7 @@ a:hover{
   margin-top: 10px;
   margin-right: 150px;
   text-align: end;
-  font-size: 12px;
+  font-size: 10px;
   width: 150px;  
   line-height: 1.35em;
 }
