@@ -28,11 +28,6 @@ specialColor = "#3877ff"
   weight = 1
 
 [[menu.pages]]
-  name = 'live'
-  url = '/live'
-  weight = 2
-
-[[menu.pages]]
   name = 'craft'
   url = '/craft'
   weight = 2
@@ -43,11 +38,14 @@ specialColor = "#3877ff"
   weight = 3
 
 [[menu.pages]]
-  name = 'blog'
-  url = '/blog'
+  name = 'live'
+  url = '/live'
   weight = 4
 
-
+[[menu.pages]]
+  name = 'blog'
+  url = '/blog'
+  weight = 5
 
 [[menu.pages]]
   name = 'shelf'
