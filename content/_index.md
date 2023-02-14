@@ -7,7 +7,7 @@ description: "personal site of shubham"
 
 ![me](/photos/catwhite.jpg)
 # ./shubham shah
-sup shubham here! i am an internet-native builder. i primarily spend my time making craft with code. i am interested in many things including web-apps, internet businesses, memes, programmable money, meteorlogy, literature, & computer science.
+sup shubham here! i am an internet-native builder. i primarily spend my time making craft with code. i am interested in many things including web-apps, internet businesses, memes, programmable money, meteorlogy, & literature.
 
 i am primarily learning more about backend (specifically APIs and databases), graph theory (particularly network science), & programmable money these days. see [/now](/now) for more details.
 
@@ -15,7 +15,18 @@ i am primarily learning more about backend (specifically APIs and databases), gr
 ### best work
 
 in the past, i have built some interesting stuff, the best of which includes:
-* todo
+* [LyfMemo](https://lyfmemo.vercel.app/)
+ 
+* [Infinity Portal](https://infinityportal.vercel.app/)
+ 
+* [No cap](https://no-cap.vercel.app/)
+ 
+* [Cydekyk](https://cydekyk.vercel.app/)
+
+* [nocap](https://no-cap.netlify.app/)
+
+* [nocap | CLI](https://gtihub.com/shubhxms/nocap)
+ 
 
 i was also a part of [buildspace nights and weekends s2](https://buildspace.so/nights-weekends)
 

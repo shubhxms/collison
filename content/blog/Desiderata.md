@@ -1,5 +1,6 @@
 ---
-title: 'Desiderata'
+title: 'test'
+url: /test
 date: 2023-02-10
 slug: Go placidly amid the noise and the haste, and remember what peace there may be in silence. As far as possible, without surrender, be on good terms with all persons.
 ---

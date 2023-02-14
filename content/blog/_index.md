@@ -2,4 +2,5 @@
 title: "Blog"
 ---
 
- Most of my writing can be found on my Substack, this is where I save some of the most important posts.
+this is an archive of all my posts.
+you can subscribe to my writing on my [substack](https://shubhxms.substack.com/), 
