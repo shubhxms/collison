@@ -1,6 +1,6 @@
 ---
 title: "shubham shah"
-description: "personal site of shubham"
+description: "personal site of shubham shah"
 ---
 
 
