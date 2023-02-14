@@ -66,6 +66,6 @@ specialColor = "#3877ff"
 
 [[menu.pages]]
   name = 'also see'
-  url = '/misc'
+  url = '/also-see'
   weight = 9
 
