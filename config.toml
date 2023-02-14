@@ -51,7 +51,7 @@ specialColor = "#3877ff"
 
 [[menu.pages]]
   name = 'shelf'
-  url = '/bookshelf'
+  url = '/shelf'
   weight = 6
 
 [[menu.pages]]
