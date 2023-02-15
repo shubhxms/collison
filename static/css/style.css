@@ -19,7 +19,7 @@ a:hover{
 #menu {
   float: right;
   margin-top: 10px;
-  margin-right: 50px;
+  margin-right: 10px;
   text-align: end;
   font-size: 12px;
   width: 150px;  
@@ -56,7 +56,7 @@ a:hover{
 .main {
   float: left;
   width: 700px;
-  margin: 0 150px;
+  margin: 0 5px;
 }
 
 
