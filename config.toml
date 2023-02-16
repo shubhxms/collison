@@ -38,11 +38,6 @@ specialColor = "#3877ff"
   weight = 3
 
 [[menu.pages]]
-  name = 'live'
-  url = '/live'
-  weight = 4
-
-[[menu.pages]]
   name = 'blog'
   url = '/blog'
   weight = 5

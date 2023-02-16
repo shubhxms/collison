@@ -6,7 +6,7 @@ description: "personal site of shubham shah"
 
 
 ![me](/photos/catwhite.jpg)
-<h1 style="font-family:'Caveat', cursive; text-decoration: underline !important;">shubham shah</h1>
+<h1 style="font-family:'Caveat', cursive; text-decoration: underline !important; font-size:x-large">shubham shah</h1>
 
 sup shubham here! i am an internet-native builder. i primarily spend my time making craft with code. i am interested in many things including web-apps, internet businesses, memes, programmable money, meteorlogy, & literature.
 
