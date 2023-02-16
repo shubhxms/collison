@@ -1,13 +1,12 @@
 ---
-title: "shubham shah"
+title: "∬"
 description: "personal site of shubham shah"
 ---
 
 
 
 ![me](/photos/catwhite.jpg)
-<h1 style="font-family:'Caveat', cursive; text-decoration: underline !important; font-size:x-large">shubham shah</h1>
-
+<div style="font-family:'Caveat', cursive; text-decoration: underline !important; display:inline-block; font-size:26px; font-weight:500 !important">∬</div>
 sup shubham here! i am an internet-native builder. i primarily spend my time making craft with code. i am interested in many things including web-apps, internet businesses, memes, programmable money, meteorlogy, & literature.
 
 i am primarily learning more about backend (specifically APIs and databases), graph theory (particularly network science), & programmable money these days. see [/now](/now) for more details.
@@ -16,16 +15,11 @@ i am primarily learning more about backend (specifically APIs and databases), gr
 ## best work
 
 in the past, i have built some interesting stuff, the best of which includes:
-* [LyfMemo](https://lyfmemo.vercel.app/)
- 
-* [Infinity Portal](https://infinityportal.vercel.app/)
- 
-* [No cap](https://no-cap.vercel.app/)
- 
-* [Cydekyk](https://cydekyk.vercel.app/)
-
+* [lyfmemo](https://lyfmemo.vercel.app/)
+* [infinity portal](https://infinityportal.vercel.app/)
+* [no cap](https://no-cap.vercel.app/)
+* [cydekyk](https://cydekyk.vercel.app/)
 * [nocap](https://no-cap.netlify.app/)
-
 * [nocap | CLI](https://gtihub.com/shubhxms/nocap)
  
 

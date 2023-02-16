@@ -3,12 +3,19 @@ body {
   background: var(--background, white);
   margin-top: 50px;
   margin-bottom:50px;
+  font-weight: 600;
+}
+
+html ::-webkit-scrollbar { width: 0 !important }
+html {
+  scrollbar-width: none; /* Firefox */
+  -ms-overflow-style: none;  /* IE 10+ */
 }
  
  a{
   text-decoration: underline;
   text-decoration-color: var(--link, #0864c7);
-  color: var(--link, #0864c7);
+  color: var(--special, #0864c7);
  }
 
 a:hover{
@@ -21,16 +28,18 @@ a:hover{
   margin-top: 10px;
   margin-right: 10px;
   text-align: end;
-  font-size: 21px;
+  font-size: 19px;
   width: 150px;  
   line-height: 1.2em;
-  font-weight: 300;
+  font-weight: 400;
+  font-family: 'Podkova', serif;
 }
 
 #menu .title{
   font-family: 'Caveat', cursive;
-  font-weight: 400;
+  font-weight: 600;
   font-size: larger;
+  text-decoration: underline;
 }
 
 #menu ul {
@@ -59,9 +68,8 @@ a:hover{
   float: left;
   width: 40vw;
   margin: 0 5px;
-  line-height: 2em;
+  line-height: 1.3em;
 }
-
 
 h1, h2, h3 {
    line-height: 0.5em;
@@ -80,7 +88,6 @@ h1{
   font-size: x-large;
 }
 
-
 h2{
   margin-top: 0.5em;
 }
@@ -95,16 +102,18 @@ h2{
   text-decoration-color: var(--special, #3A6E35);
 }
 
-.main p, .main ul {
+.main p{
   line-height: 1.3em;
 }
 
-li{
-  text-align: -webkit-match-parent;
+.main ul {
+  line-height: 0.65em;
+  text-align:-webkit-match-parent
 }
 
 .main li{
-  margin-bottom: 0.7em;
+  margin-bottom: 0.65em;
+  text-align:-webkit-match-parent
 }
 
 sup, sub {

@@ -1,6 +1,6 @@
 baseurl = "https://collison.netlify.app"
 languageCode = "en-us"
-title = "shubham shah"
+title = "shubham s."
 sectionPagesMenu = "main"
 pluralizelisttitles = false
 
@@ -15,10 +15,10 @@ relativeURLs = true
 contentdir = "content"
 mobileFriendly = true
 fontFamily = "Cormorant"
-fontLink = "https://fonts.googleapis.com/css2?family=Caveat:wght@500&family=Cormorant:wght@600&family=Podkova&display=swap"
+fontLink = "https://fonts.googleapis.com/css2?family=Caveat&family=Cormorant&family=Podkova&display=swap"
 themeColor = "#3877ff"
 backgroundColor = "#f2f6f7"
-specialColor = "#3877ff"
+specialColor = "#006fff"
 
 [menu]
 
@@ -57,8 +57,4 @@ specialColor = "#3877ff"
   url = '/misc'
   weight = 8
 
-[[menu.pages]]
-  name = 'also see'
-  url = '/also-see'
-  weight = 9
 
