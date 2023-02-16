@@ -14,8 +14,8 @@ unsafe= true
 relativeURLs = true
 contentdir = "content"
 mobileFriendly = true
-fontFamily = "Fraunces"
-fontLink = "https://fonts.googleapis.com/css2?family=Fraunces:opsz@9..144&family=Karla&family=Spectral&family=VT323&display=swap"
+fontFamily = "Cormorant"
+fontLink = "https://fonts.googleapis.com/css2?family=Cormorant:wght@500&&family=Podkova&display=swap"
 themeColor = "#3877ff"
 backgroundColor = "#f2f6f7"
 specialColor = "#3877ff"

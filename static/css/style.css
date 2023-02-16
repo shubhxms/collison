@@ -1,5 +1,5 @@
 body {
-  font-size: 14px;
+  font-size: 18px;
   background: var(--background, white);
   margin-top: 50px;
   margin-bottom:50px;
@@ -21,13 +21,14 @@ a:hover{
   margin-top: 10px;
   margin-right: 10px;
   text-align: end;
-  font-size: 15px;
+  font-size: 18px;
   width: 150px;  
-  line-height: 1.35em;
+  line-height: 1.2em;
 }
 
 #menu .title{
-  font-family: 'VT323', monospace;
+  font-family: 'Caveat', cursive;
+  font-weight: 800;
   font-size: larger;
 }
 
@@ -49,25 +50,31 @@ a:hover{
   min-width: 0;
   overflow: hidden;
   margin: 0;
-  margin-left: 200px;
+  margin-left: 250px;
   padding: 0;
 }
 
 .main {
   float: left;
-  width: 600px;
+  width: 40vw;
   margin: 0 5px;
+  line-height: 2em;
 }
 
 
 h1, h2, h3 {
-   line-height: 1.2em;
-   font-family: 'VT323', monospace;
-}
+   line-height: 0.5em;
+   font-family: 'Podkova', serif;
+   font-size: large;
+  }
 
 h1, h3{
   padding: 0px;
   margin: 0px;
+}
+
+h1{
+  font-size:x-large;
 }
 
 h2{
@@ -85,7 +92,7 @@ h2{
 }
 
 .main p, .main ul {
-  line-height: 1.25em;
+  line-height: 1.3em;
 }
 
 li{
