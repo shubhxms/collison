@@ -1,6 +1,7 @@
 ---
 title: 'Links'
 url: /links
+showtitle: true
 ---
 
 links related to me.

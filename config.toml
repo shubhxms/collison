@@ -15,7 +15,7 @@ relativeURLs = true
 contentdir = "content"
 mobileFriendly = true
 fontFamily = "Cormorant"
-fontLink = "https://fonts.googleapis.com/css2?family=Cormorant:wght@500&&family=Podkova&display=swap"
+fontLink = "https://fonts.googleapis.com/css2?family=Caveat:wght@500&family=Cormorant:wght@600&family=Podkova&display=swap"
 themeColor = "#3877ff"
 backgroundColor = "#f2f6f7"
 specialColor = "#3877ff"

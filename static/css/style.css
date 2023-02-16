@@ -24,11 +24,13 @@ a:hover{
   font-size: 18px;
   width: 150px;  
   line-height: 1.2em;
+  font-family: 'Caveat', cursive;
+  font-weight: 300;
 }
 
 #menu .title{
   font-family: 'Caveat', cursive;
-  font-weight: 800;
+  font-weight: 400;
   font-size: larger;
 }
 
@@ -75,7 +77,10 @@ h1, h3{
 
 h1{
   font-size:x-large;
+  font-family: 'Caveat', cursive;
+  text-decoration: overline underline double ;
 }
+
 
 h2{
   margin-top: 0.5em;
