@@ -6,7 +6,8 @@ description: "personal site of shubham shah"
 
 
 ![me](/photos/catwhite.jpg)
-# ./shubham shah
+<h1 style="font-family:'Caveat', cursive; text-decoration: underline !important;">shubham shah</h1>
+
 sup shubham here! i am an internet-native builder. i primarily spend my time making craft with code. i am interested in many things including web-apps, internet businesses, memes, programmable money, meteorlogy, & literature.
 
 i am primarily learning more about backend (specifically APIs and databases), graph theory (particularly network science), & programmable money these days. see [/now](/now) for more details.

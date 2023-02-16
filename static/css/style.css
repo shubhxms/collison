@@ -21,10 +21,9 @@ a:hover{
   margin-top: 10px;
   margin-right: 10px;
   text-align: end;
-  font-size: 18px;
+  font-size: 21px;
   width: 150px;  
   line-height: 1.2em;
-  font-family: 'Caveat', cursive;
   font-weight: 300;
 }
 
@@ -67,7 +66,8 @@ a:hover{
 h1, h2, h3 {
    line-height: 0.5em;
    font-family: 'Podkova', serif;
-   font-size: large;
+   text-decoration: underline;
+   font-size: larger;
   }
 
 h1, h3{
@@ -76,9 +76,8 @@ h1, h3{
 }
 
 h1{
-  font-size:x-large;
-  font-family: 'Caveat', cursive;
-  text-decoration: overline underline double ;
+  text-decoration: overline double;
+  font-size: x-large;
 }
 
 

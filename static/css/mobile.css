@@ -2,7 +2,7 @@
 @media screen and (max-device-width: 600px){
 
 body{
-  font-size: 35px !important;
+  font-size: 25px !important;
 }
 
 #menu {
@@ -11,7 +11,7 @@ body{
   text-align: center;
   width: 80%;
   float:  left; 
-  font-size: 36px !important;
+  font-size: 40px !important;
 }
 
 #menu ul{
