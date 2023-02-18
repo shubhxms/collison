@@ -80,7 +80,7 @@ h1, h2, h3 {
 
 h1, h3{
   padding: 0px;
-  margin: 0px;
+  margin: 10px;
 }
 
 h1{
@@ -112,7 +112,7 @@ h2{
 }
 
 .main li{
-  margin-bottom: 0.65em;
+  margin: 0.65em;
   text-align:-webkit-match-parent
 }
 

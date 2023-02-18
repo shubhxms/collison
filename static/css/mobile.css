@@ -11,7 +11,11 @@ body{
   text-align: center;
   width: 80%;
   float:  left; 
-  font-size: 35px !important;
+  font-size: 37px !important;
+}
+
+h1, h2, h3 {
+  font-size: 38px !important;
 }
 
 #menu ul{

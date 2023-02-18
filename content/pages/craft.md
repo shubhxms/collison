@@ -5,6 +5,8 @@ showtitle: true
 ---
 
 * [lyfmemo](https://lyfmemo.vercel.app/)
+  * memos app
+  * react, chakra ui
 * [infinity portal](https://infinityportal.vercel.app/)
 * [no cap](https://no-cap.vercel.app/)
 * [cydekyk](https://cydekyk.vercel.app/)
