@@ -60,21 +60,25 @@ a:hover{
   min-width: 0;
   overflow: hidden;
   margin: 0;
-  margin-left: 250px;
+  margin-left: 100px;
   padding: 0;
 }
 
 .main {
   float: left;
-  width: 40vw;
+  width: 50vw;
   margin: 0 5px;
-  line-height: 1.3em;
+  border-left:thick double black;
+  /* border-bottom:medium solid black; */
+  padding-left: 20px;
+  /* padding-bottom: 10px; */
+  margin-bottom: 15px;
+  line-height: 1.2em;
 }
 
 h1, h2, h3 {
    line-height: 0.5em;
    font-family: 'Podkova', serif;
-   text-decoration: underline;
    font-size: larger;
   }
 
@@ -84,7 +88,6 @@ h1, h3{
 }
 
 h1{
-  text-decoration: overline double;
   font-size: x-large;
 }
 
@@ -103,7 +106,7 @@ h2{
 }
 
 .main p{
-  line-height: 1.3em;
+  line-height: 1.2em;
 }
 
 .main ul {

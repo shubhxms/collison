@@ -1,6 +1,7 @@
 <head>
 
 <html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
+    {{ if .Params.katex}}{{ partial "katex.html" . }}{{ end }}
   <head>
      <title> {{ .Title }} · {{ $.Site.Title }} </title>
      <meta name="description" content="{{ .Description }}">
@@ -11,7 +12,9 @@
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Caveat&family=Cormorant&family=Podkova&display=swap" rel="stylesheet">     
+    <link href="https://fonts.googleapis.com/css2?family=Caveat&family=Cormorant&family=Podkova&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.4/dist/katex.min.css" integrity="sha384-vKruj+a13U8yHIkAyGgK1J3ArTLzrFGBbBc0tDp4ad/EyewESeXE/Iv67Aj8gKZ0" crossorigin="anonymous">
+    <script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.4/dist/katex.min.js" integrity="sha384-PwRUT/YqbnEjkZO0zZxNqcxACrXe+j766U2amXcgMg5457rve2Y7I6ZJSm2A0mS4" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="{{if eq .Site.Params.mobileFriendly true}}
     {{ "css/mobile.css" | absURL }} 
     {{else}}
@@ -50,6 +53,7 @@
 body {
   font-family: "{{$.Site.Params.fontFamily}}", "Helvetica Neue", "Helvetica", sans-serif;
 }
+
 
 
   </style>
