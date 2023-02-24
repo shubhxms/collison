@@ -1,7 +1,7 @@
 body {
   font-size: 18px;
   background: var(--background, white);
-  margin-top: 50px;
+  margin-top: 30px;
   margin-bottom:50px;
   font-weight: 600;
 }
@@ -60,20 +60,23 @@ a:hover{
   min-width: 0;
   overflow: hidden;
   margin: 0;
-  margin-left: 100px;
+  margin-left: 150px;
   padding: 0;
 }
 
 .main {
   float: left;
   width: 50vw;
-  margin: 0 5px;
-  border-left:thick double black;
-  /* border-bottom:medium solid black; */
-  padding-left: 20px;
-  /* padding-bottom: 10px; */
-  margin-bottom: 15px;
+  border:medium dotted black;
+  padding-top: 5px;
+  padding-left: 40px;
+  padding-right: 20px;
+  margin: 10px;
   line-height: 1.2em;
+  height: 90vh;
+  overflow-y: scroll;
+  position:-webkit-sticky;
+
 }
 
 h1, h2, h3 {
@@ -89,6 +92,7 @@ h1, h3{
 
 h1{
   font-size: x-large;
+  text-decoration: underline;
 }
 
 h2{
