@@ -3,6 +3,7 @@ title: Could Stripe have been started in Ireland?
 date: 2023-01-23
 slug: I’m sometimes asked whether Stripe could have been started in Ireland. It’s impossible to really know the counterfactual, but I suspect not.
 published: false
+showTitle: true
 ---
 
 I’m sometimes asked whether Stripe could have been started in Ireland. It’s impossible to really know the counterfactual, but I suspect not.
