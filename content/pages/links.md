@@ -10,3 +10,6 @@ links related to me.
 *  [twitter](https://twitter.com/shubhxms) 
 *  [telegram](https://telegram.me/shubhxms) 
 *  [discord](https://discord.com/users/shubhxms#2442).
+
+
+{{<newspaper-dots>}}

@@ -4,13 +4,19 @@
 	<body>
 				{{ partial "menu.html" . }}
 
-		<div id="left">&nbsp;</div>
-
-		<div class="main">
-			{{ .Content }}
+		<div id="left">
+			&nbsp;
 		</div>
 
+		<div class="main">
+			
+			{{ .Content }}
+			
+		</div>
+
+		{{ partial "footer.html" . }}
 
 	</body>
+    
 
 </html>

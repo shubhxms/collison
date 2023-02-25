@@ -69,6 +69,7 @@ p{
   font-size: 36px !important;
   margin-left: 5%;
   line-height: 46px;
+  border:none !important;
 }
 
 .main p, .main ul{

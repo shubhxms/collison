@@ -5,3 +5,6 @@ showtitle: true
 ---
 
 this site is based on a theme by [judah](https://joodaloop.com) called [collison](https://github.com/stealsocks/collison).
+
+{{<newspaper-dots>}}
+{{<newspaper-dots>}}

@@ -14,13 +14,14 @@ html {
  
  a{
   text-decoration: underline;
-  text-decoration-color: var(--link, #0864c7);
-  color: var(--special, #0864c7);
+  color: #0864c7;
  }
 
 a:hover{
   cursor: pointer;
   text-decoration: underline double;
+  text-decoration-color: darkorange;
+  color: darkorange !important;
 }
 
 #menu {
@@ -76,8 +77,22 @@ a:hover{
   height: 90vh;
   overflow-y: scroll;
   position:-webkit-sticky;
-
+  
 }
+
+.dot {
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  display:inline-block;
+  margin: 2px;
+  /* margin-right: 10px; */
+}
+
+.footer {
+  margin-left: 0 !important;
+}
+
 
 h1, h2, h3 {
    line-height: 0.5em;
@@ -87,7 +102,6 @@ h1, h2, h3 {
 
 h1, h3{
   padding: 0px;
-  margin: 10px;
 }
 
 h1{

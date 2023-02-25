@@ -42,7 +42,9 @@ ___
    * aanand (movie, 1971) [^aanand]
 
 
+{{<newspaper-dots>}}
 
 
 [^aot]: shinzou wo sasageyo
 [^aanand]: available on youtube
+

@@ -36,6 +36,9 @@ my interests are at an intersection of technology and freedom. i strive to live 
 i love hearing from people on the interent and am open to collaboration. please feel free to reach out on @shubhxms on [twitter](https://twitter.com/shubhxms) or [telegram](https://telegram.dog/shubhxms)
 
 
+
 [^1]: see [/shelf](/shelf) and my [telegram broadcast](https://telegram.me/shubhamcore)
 [^2]: [garuda linux](https://garudalinux.org/)
 [^3]: i also like web-apps a lot. it is not a dichotomy; both have their proper places
+            
+{{<newspaper-dots>}}

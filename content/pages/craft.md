@@ -23,3 +23,5 @@ showtitle: true
    * cricket tournament tracker
    * python, CLI
    * with a friend
+
+{{<newspaper-dots>}}
