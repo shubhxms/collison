@@ -20,8 +20,8 @@ html {
 a:hover{
   cursor: pointer;
   text-decoration: underline double;
-  text-decoration-color: darkorange;
-  color: darkorange !important;
+  text-decoration-color: #fe6e00;
+  color: #fe6e00 !important;
 }
 
 #menu {
@@ -67,12 +67,13 @@ a:hover{
 
 .main {
   float: left;
-  width: 50vw;
+  width: 70vw;
   border:medium dotted black;
-  padding-top: 5px;
-  padding-left: 40px;
+  /* padding-top: 5px; */
+  padding-left: 30px;
   padding-right: 20px;
-  margin: 10px;
+  margin: 30px;
+  margin-top: 1px;
   line-height: 1.2em;
   height: 90vh;
   overflow-y: scroll;
