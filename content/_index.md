@@ -9,7 +9,7 @@ description: "personal site of shubham shah"
 <div style="font-family:'Caveat', cursive; display:inline-block; font-size:26px; font-weight:500 !important">∬</div>
 sup shubham here! i am an internet-native builder. i primarily spend my time making craft with code. i am interested in many things including web-apps, internet businesses, memes, programmable money, free and open software, & literature.
 
-these days i primarily spend my time learning more about backend (specifically APIs and databases), programmable money and reading random stuff on internet dot com [^1]. see [/now](/now) for more details.
+these days i primarily spend my time making stuff or learning more about web development, programmable money and reading random stuff on internet dot com [^1]. see [/now](/now) for more details.
 
 i currently run an arch-based distro with KDE desktop environment [^2] on my machine and have a preference towards using free and local-first software [^3].
 
@@ -18,6 +18,7 @@ i currently run an arch-based distro with KDE desktop environment [^2] on my mac
 
 in the past i have built some interesting stuff, the best of which includes:
 * [lyfmemo](https://lyfmemo.vercel.app/) - app to autoclassify quick jots
+* [cubetimer](https://cubetimer.vercel.app/) - timer and stats for rubiks cube solves
 * [cydekyk](https://cydekyk.vercel.app/) - store on solana chain
 * [nocap](https://gtihub.com/shubhxms/nocap) - case converter CLI
 

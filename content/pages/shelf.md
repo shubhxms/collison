@@ -17,8 +17,7 @@ ____
    * mental outlaw ([youtube](https://www.youtube.com/@MentalOutlaw))
    * But What For? ([blog](https://www.butwhatfor.com/))
    * The Linux Experiment ([youtube](https://www.youtube.com/@TheLinuxEXP))
-   * Yes Yheory ([youtube](https://www.youtube.com/@YesTheory))
-   * Gazing at Gandhara ([blog](https://samyakdixit.substack.com/))
+   * Yes Theory ([youtube](https://www.youtube.com/@YesTheory))
 ___
 **books**
 
