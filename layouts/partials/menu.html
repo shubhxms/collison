@@ -1,10 +1,8 @@
 <div id="menu">
    <span class=title>{{$.Site.Title}}</span>
 <ul>
- 
     {{ range .Site.Menus.pages }}
     <li><a href="{{ .URL }}"> {{ .Name }} </a></li>
     {{ end }}
-
 </ul>
 </div>

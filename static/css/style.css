@@ -1,6 +1,7 @@
 body {
   font-size: 18px;
-  background: var(--background, white);
+  /* background: var(--background, rgb(255, 140, 63)); */
+  background: rgb(230, 247, 255);
   margin-top: 30px;
   margin-bottom:50px;
   font-weight: 600;
@@ -20,8 +21,13 @@ html {
 a:hover{
   cursor: pointer;
   text-decoration: underline double;
-  text-decoration-color: #fe6e00;
-  color: #fe6e00 !important;
+  text-decoration-color: #ff9f5b;
+  color: #ff9f5b !important;
+}
+
+html ::selection{
+  background: #000000;
+  color: #ffffff;
 }
 
 #menu {
@@ -61,23 +67,24 @@ a:hover{
   min-width: 0;
   overflow: hidden;
   margin: 0;
-  margin-left: 150px;
+  margin-left: 10vw;
   padding: 0;
 }
 
 .main {
-  float: left;
+  float:left;
   width: 70vw;
-  border:medium dotted black;
+  /* border:medium dotted black; */
   /* padding-top: 5px; */
-  padding-left: 30px;
-  padding-right: 20px;
+  /* padding-left: 30px;
+  padding-right: 20px; */
   margin: 30px;
   margin-top: 1px;
+  margin-bottom: 10px;
   line-height: 1.2em;
   height: 90vh;
-  overflow-y: scroll;
-  position:-webkit-sticky;
+  /* overflow-y: scroll; */
+  /* position:-webkit-sticky; */
 }
 
 .dot {

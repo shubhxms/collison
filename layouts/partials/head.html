@@ -1,15 +1,12 @@
 <head>
-
+  
 <html lang="{{ with .Site.LanguageCode }}{{ . }}{{ else }}en-US{{ end }}">
+  <!-- <a id="dark-mode-toggle" class="fal fa-moon-o">Toggle Dark Mode</a> -->
     {{ if .Params.katex}}{{ partial "katex.html" . }}{{ end }}
   <head>
      <title> {{ .Title }} · {{ $.Site.Title }} </title>
      <meta name="description" content="{{ .Description }}">
     <link rel="stylesheet" href={{"css/style.css" | absURL}}><link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Caveat&family=Cormorant&family=Podkova&display=swap" rel="stylesheet">
@@ -21,6 +18,8 @@
     {{ "css/style.css" | absURL}} 
 
     {{ end }}">
+    <link disabled id="dark-mode-theme" rel="stylesheet" href="/css/dark.css">
+    <!-- <script defer src="/static/fontawesome/fontawesome-all.js"></script> -->
 
   <meta charset="utf-8">
    <meta http-equiv="content-type" content="text/html;charset=utf-8" />
@@ -38,6 +37,28 @@
  <meta name="twitter:title" content="{{ .Title }}">
  <meta name="twitter:description" content="{{ .Description }}" />
 
+ <!-- <script>
+  var toggle = document.getElementById("dark-mode-toggle");
+var darkTheme = document.getElementById("dark-mode-theme");
+
+toggle.addEventListener("click", () => {
+    if (toggle.className === "fal fa-moon-o") {
+        setTheme("dark");
+    } else if (toggle.className === "fal fa-sun-o") {
+        setTheme("light");
+    }
+});
+
+function setTheme(mode) {
+    if (mode === "dark") {
+        darkTheme.disabled = false;
+        toggle.className = "fal fa-sun-o";
+    } else if (mode === "light") {
+        darkTheme.disabled = true;
+        toggle.className = "fal fa-moon-o";
+    }
+}
+ </script> -->
 
   <style>
 
@@ -57,4 +78,6 @@ body {
 
 
   </style>
+      
+
   </head>
