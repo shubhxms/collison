@@ -39,6 +39,11 @@ specialColor = "#006fff"
   weight = 3
 
 [[menu.pages]]
+  name = 'notes'
+  url = 'https://aaranya.vercel.app/'
+  weight = 4
+
+[[menu.pages]]
   name = 'blog'
   url = '/blog'
   weight = 5
