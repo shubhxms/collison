@@ -1,14 +1,23 @@
 {{ define "main" }}
 
-       
+        <hr/>
         {{ if .Params.showtitle }}
             <h1> {{ .Title }} </h1>
         {{ end }}
          
           <div>
+            <hr/>
             {{ .Content }}  
           </div>
-          
+          <div>
+            <div class="dot" style="background-color:rgb(106, 0, 255)"></div>
+            <div class="dot" style="background-color:rgb(255, 230, 0);"></div>
+            <div class="dot" style="background-color:rgb(255, 106, 173);"></div>
+            <div class="dot" style="background-color:rgba(0, 0, 0, 0.828)"></div>
+          </div>
+          <hr/>
+
         </div>
+
         
 {{ end }}

@@ -12,4 +12,3 @@ links related to me.
 *  [discord](https://discord.com/users/shubhxms#2442).
 
 
-{{<newspaper-dots>}}

@@ -24,4 +24,3 @@ showtitle: true
    * python, CLI
    * with a friend
 
-{{<newspaper-dots>}}

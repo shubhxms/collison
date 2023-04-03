@@ -1,10 +1,10 @@
 body {
   font-size: 18px;
   /* background: var(--background, rgb(255, 140, 63)); */
-  background: rgb(230, 247, 255);
+  background: #ffffff;
   margin-top: 30px;
   margin-bottom:50px;
-  font-weight: 600;
+  font-weight: 550;
 }
 
 html ::-webkit-scrollbar { width: 0 !important }
@@ -21,8 +21,8 @@ html {
 a:hover{
   cursor: pointer;
   text-decoration: underline double;
-  text-decoration-color: #ff9f5b;
-  color: #ff9f5b !important;
+  text-decoration-color: #2d2d2d;
+  color: #2d2d2d !important;
 }
 
 html ::selection{
@@ -31,23 +31,25 @@ html ::selection{
 }
 
 #menu {
-  float: right;
-  margin-top: 10px;
-  margin-right: 10px;
-  text-align: end;
-  font-size: 19px;
+  float: left;
+  margin-top: 30px;
+  margin-left: 20px;
+  text-align: start;
+  font-size: 21px;
   width: 150px;  
-  line-height: 1.2em;
-  font-weight: 400;
-  font-family: 'Podkova', serif;
+  line-height: 1.3em;
+  font-weight: 600;
+  font-family: 'Cormorant', serif;
 }
 
 #menu .title{
-  font-family: 'Caveat', cursive;
-  font-weight: 600;
+  font-family: 'Cormorant', serif;
+  font-weight: 800;
   font-size: larger;
   text-decoration: underline;
+  margin-bottom: 15px !important;
 }
+
 
 #menu ul {
   list-style-type: none;
@@ -62,9 +64,9 @@ html ::selection{
 
 #left {
   height: 1px;
-  float: left;
+  float: right;
   display: block;
-  min-width: 0;
+  width: 10px;
   overflow: hidden;
   margin: 0;
   margin-left: 10vw;
@@ -72,8 +74,8 @@ html ::selection{
 }
 
 .main {
-  float:left;
-  width: 70vw;
+  float:right;
+  width: 50vw;
   /* border:medium dotted black; */
   /* padding-top: 5px; */
   /* padding-left: 30px;
@@ -81,8 +83,9 @@ html ::selection{
   margin: 30px;
   margin-top: 1px;
   margin-bottom: 10px;
-  line-height: 1.2em;
-  height: 90vh;
+  line-height: 1.3em;
+  /* height: 100vh; */
+  padding-right: 180px;
   /* overflow-y: scroll; */
   /* position:-webkit-sticky; */
 }

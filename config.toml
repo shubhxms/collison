@@ -15,7 +15,7 @@ unsafe= true
 relativeURLs = true
 contentdir = "content"
 mobileFriendly = true
-fontFamily = "Cormorant"
+fontFamily = "Podkova"
 fontLink = "https://fonts.googleapis.com/css2?family=Caveat&family=Cormorant&family=Podkova&display=swap"
 themeColor = "#3877ff"
 backgroundColor = "#f2f6f7"
@@ -40,7 +40,7 @@ specialColor = "#006fff"
 
 [[menu.pages]]
   name = 'notes'
-  url = 'https://aaranya.vercel.app/'
+  url = 'https://aaranya.vercel.app'
   weight = 4
 
 [[menu.pages]]
@@ -54,13 +54,8 @@ specialColor = "#006fff"
   weight = 6
 
 [[menu.pages]]
-  name = 'links'
-  url = '/links'
-  weight = 7
-
-[[menu.pages]]
   name = 'misc'
   url = '/misc'
-  weight = 8
+  weight = 7
 
 
