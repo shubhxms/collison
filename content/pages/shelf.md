@@ -7,7 +7,7 @@ url: /shelf
 Below is an incomplete list, in no particular order, of stuff i (have) enjoy(ed) consuming. 
 
 ____
-**on internet**
+## **On Internet**
    * exurb1a (and his second channel exurb2a) ([youtube](https://www.youtube.com/@exurb1a), [youtube](https://www.youtube.com/@exurb2a114))
    * Dynomight ([blog](https://dynomight.substack.com/))
    * Be Wrong ([blog](https://bewrong.substack.com/))
@@ -19,7 +19,7 @@ ____
    * The Linux Experiment ([youtube](https://www.youtube.com/@TheLinuxEXP))
    * Yes Theory ([youtube](https://www.youtube.com/@YesTheory))
 ___
-**books**
+## **Books**
 
 see [book list](https://literal.club/shubhxms) for a more happening list; my favorites listed below
    * Chaos by James Gleick
@@ -29,8 +29,9 @@ see [book list](https://literal.club/shubhxms) for a more happening list; my fav
    * Antifragile by Nassim Taleb
    * Skin in the Game by Nassim Taleb
    * The Da Vinci Code by Dan Brown
+   * The Song of Achilles by Madeline Miller
 ___
-**video**
+## **Video**
    * Dead Poets Society (movie, 1989)
    * Death Note (anime, 2006)
    * Attack On Titan (anime, 2013) [^aot]
@@ -39,9 +40,6 @@ ___
    * Andhadhun (movie, 2018)
    * RRR (movie, 2022)
    * aanand (movie, 1971) [^aanand]
-
-
-{{<newspaper-dots>}}
 
 
 [^aot]: shinzou wo sasageyo

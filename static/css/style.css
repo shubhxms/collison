@@ -1,10 +1,10 @@
 body {
-  font-size: 18px;
+  font-size:18px;
   /* background: var(--background, rgb(255, 140, 63)); */
   background: #ffffff;
   margin-top: 30px;
   margin-bottom:50px;
-  font-weight: 550;
+  font-weight: 600;
 }
 
 html ::-webkit-scrollbar { width: 0 !important }
@@ -78,13 +78,13 @@ html ::selection{
   width: 50vw;
   /* border:medium dotted black; */
   /* padding-top: 5px; */
-  /* padding-left: 30px;
-  padding-right: 20px; */
+  /* padding-left: 100px; */
+  /* padding-right: 20px; */
   margin: 30px;
   margin-top: 1px;
   margin-bottom: 10px;
   line-height: 1.3em;
-  /* height: 100vh; */
+  /* height: 90vh; */
   padding-right: 180px;
   /* overflow-y: scroll; */
   /* position:-webkit-sticky; */
