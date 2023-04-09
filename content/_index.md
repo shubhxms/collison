@@ -23,7 +23,7 @@ In the past, I have crafted many marvels of the digital realm, such as
 * [Lyfmemo](https://lyfmemo.vercel.app/), a powerful tool capable of autoclassifying quick jots,
 * [Cubetimer](https://cubetimer.vercel.app/), a timer and statistic tracker for those who seek to solve the Rubik's cube,
 * [Cydekyk](https://cydekyk.vercel.app/), a store powered by the Solana chain, and
-* [Nocap](https://gtihub.com/shubhxms/nocap), a case converter CLI, which shall live on in the annals of history.
+* [Nocap](https://gtihub.com/shubhxms/nocap), a case converter CLI
 
 all of which shall live on in the annals of history.
 
