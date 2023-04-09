@@ -21,6 +21,7 @@ themeColor = "#3877ff"
 backgroundColor = "#f2f6f7"
 specialColor = "#006fff"
 
+
 [menu]
 
 [[menu.pages]]
@@ -39,7 +40,7 @@ specialColor = "#006fff"
   weight = 3
 
 [[menu.pages]]
-  name = 'notes'
+  name = 'pins'
   url = 'https://aaranya.vercel.app'
   weight = 4
 
