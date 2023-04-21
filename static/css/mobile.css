@@ -2,16 +2,37 @@
 @media screen and (max-device-width: 600px){
 
 body{
-  font-size: 32px !important;
+  font-size: 2.5vmin !important;
+  background:
+    linear-gradient(-90deg, rgba(0, 123, 255, 0.05) 5px, transparent 5px),
+    linear-gradient(rgba(0,0,0,.05) 5px, transparent 5px), 
+    linear-gradient(-90deg, rgba(0, 0, 0, .04)  5px, transparent  5px),
+    linear-gradient(rgba(0,0,0,.04)  5px, transparent 5px),
+    linear-gradient(transparent 5px, #f2f2f2 100px, #f2f2f2 100px, transparent 100px),
+    linear-gradient(-90deg, #aaa 1px, transparent 1px),
+    linear-gradient(-90deg, transparent 5px, #f2f2f2 5px, #f2f2f2 100px, transparent 100px),
+    linear-gradient(#aaa 3px, transparent 3px),
+    #f2f2f2;
+  background-size:
+    4px 4px,
+    4px 4px,
+    80px 80px,
+    80px 80px,
+    80px 80px,
+    80px 80px,
+    80px 80px,
+    80px 80px;
 }
 
 #menu {
   margin-top: 30px;
   /* margin-right: 3%; */
-  /* text-align: center; */
+  text-align: center;
   width: 80%;
-  /* float:  center;  */
-  font-size: 37px !important;
+  float:left; 
+  font-size: 4vmin !important;
+  margin-left: 10%;
+  margin-right: 2%;
 }
 
 h1, h2, h3 {
@@ -24,7 +45,7 @@ h1, h2, h3 {
 
 #menu li{
   display:  inline-block;
-  margin:  10px 0px 10px 0px;
+  margin:  10px 0px 0 0px;
 
 }
 
@@ -53,9 +74,9 @@ p{
 
 #left {
   height: 1px;
-  float: left;
+  float: right;
   display: block;
-  min-width: 0;
+  width: 5vw;
   overflow: hidden;
   /* width: 1%; */
   margin: 0;
@@ -65,16 +86,17 @@ p{
 .main {
   margin-top: 80px;
   float: left;
-  width: 78%;
-  font-size: 36px !important;
-  /* margin-left: 10%; */
-  /* margin-right: 2%; */
+  width: 75vw;
+  font-size: 3vmin !important;
+  margin-left: 10%;
+  margin-right: 2%;
   line-height: 46px;
   border:none !important;
+  padding: 0 !important;
 }
 
 .main p, .main ul{
-  line-height: 46px;
+  line-height: 4vh;
 }
 
 /*.main a{
