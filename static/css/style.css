@@ -1,3 +1,6 @@
+* {
+  cursor: pointer;   
+}
 body {
   font-size:18px;
   /* background: var(--background, rgb(255, 140, 63)); */
