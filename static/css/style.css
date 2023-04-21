@@ -44,7 +44,7 @@ html {
  }
 
 a:hover{
-  cursor: pointer;
+  cursor: crosshair;
   text-decoration: underline double;
   text-decoration-color: #2d2d2d;
   color: #2d2d2d !important;
