@@ -1,36 +1,22 @@
+@font-face {
+  font-family: "Executive";
+  src: local('Executive'),
+  url("../fonts/f25-executive.ttf") format(truetype);
+}
+
 * {
   cursor: crosshair;   
 }
 body {
-  font-size:2.5vmin;
+  font-size: 18px;
   /* background: var(--background, rgb(255, 140, 63)); */
   background: #f4f8ff;
   margin-top: 30px;
   margin-bottom:50px;
   font-weight: 600;
-  line-height: 2.5vh;
-}
-
-body {
-    background:
-        linear-gradient(-90deg, rgba(0,0,0,.05) 1px, transparent 1px),
-        linear-gradient(rgba(0,0,0,.05) 1px, transparent 1px), 
-        linear-gradient(-90deg, rgba(0, 0, 0, .04) 1px, transparent 1px),
-        linear-gradient(rgba(0,0,0,.04) 1px, transparent 1px),
-        linear-gradient(transparent 3px, #f2f2f2 3px, #f2f2f2 78px, transparent 78px),
-        linear-gradient(-90deg, #aaa 1px, transparent 1px),
-        linear-gradient(-90deg, transparent 3px, #f2f2f2 3px, #f2f2f2 78px, transparent 78px),
-        linear-gradient(#aaa 1px, transparent 1px),
-        #f2f2f2;
-    background-size:
-        4px 4px,
-        4px 4px,
-        80px 80px,
-        80px 80px,
-        80px 80px,
-        80px 80px,
-        80px 80px,
-        80px 80px;
+  line-height: 1.3rem;
+  background-color: aliceblue;
+  font-family: Executive, monospace !important;
 }
 
 html ::-webkit-scrollbar { width: 0 !important }
@@ -58,21 +44,19 @@ html ::selection{
 }
 
 #menu {
-  float: left;
+  float: right;
   margin-top: 30px;
-  margin-left: 40px;
-  text-align: start;
-  font-size: 3vmin;
-  width: 150px;  
-  line-height: 4vh;
+  margin-right: 15px;
+  text-align: end;
+  font-size: 18px;
+  width: 150px;   
+  line-height: 1.3rem;
   font-weight: 600;
-  font-family: 'Cormorant', serif;
 }
 
 #menu .title{
-  font-family: 'Cormorant', serif;
   font-weight: 800;
-  font-size: larger;
+  font-size: 20px;
   text-decoration: underline;
   margin-bottom: 15px !important;
 }
@@ -113,6 +97,7 @@ html ::selection{
   height: 90vh;
   padding-right: 180px;
   z-index: 10;
+  /* font-family: Executive !important; */
 }
 
 
@@ -121,7 +106,7 @@ html ::selection{
   height: 12px;
   border-radius: 50%;
   display:inline-block;
-  margin: 2px;
+  margin: 1px;
   /* margin-right: 10px; */
 }
 
@@ -132,7 +117,6 @@ html ::selection{
 
 h1, h2, h3 {
    line-height: 0.5em;
-   font-family: 'Podkova', serif;
    font-size: larger;
   }
 
@@ -159,17 +143,12 @@ h2{
   text-decoration-color: var(--special, #3A6E35);
 }
 
-.main p{
-  line-height: 3vh;
-}
-
 .main ul {
-  line-height: 2vh;
-  text-align:-webkit-match-parent
+  text-align:-webkit-match-parent;
 }
 
 .main li{
-  margin: 0.65em;
+  margin: 1rem;
   text-align:-webkit-match-parent
 }
 
@@ -182,3 +161,28 @@ sub {
   top: 0.4em; 
 }
 
+ul{
+  line-height: 1rem;
+}
+
+/* 
+background:
+        linear-gradient(-90deg, rgba(0,0,0,.05) 1px, transparent 1px),
+        linear-gradient(rgba(0,0,0,.05) 1px, transparent 1px), 
+        linear-gradient(-90deg, rgba(0, 0, 0, .04) 1px, transparent 1px),
+        linear-gradient(rgba(0,0,0,.04) 1px, transparent 1px),
+        linear-gradient(transparent 3px, #f2f2f2 3px, #f2f2f2 78px, transparent 78px),
+        linear-gradient(-90deg, #aaa 1px, transparent 1px),
+        linear-gradient(-90deg, transparent 3px, #f2f2f2 3px, #f2f2f2 78px, transparent 78px),
+        linear-gradient(#aaa 1px, transparent 1px),
+        #f2f2f2;
+    background-size:
+        4px 4px,
+        4px 4px,
+        80px 80px,
+        80px 80px,
+        80px 80px,
+        80px 80px,
+        80px 80px,
+        80px 80px;
+*/

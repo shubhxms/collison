@@ -15,12 +15,14 @@ unsafe= true
 relativeURLs = true
 contentdir = "content"
 mobileFriendly = true
-fontFamily = "Podkova"
-fontLink = "https://fonts.googleapis.com/css2?family=Caveat&family=Cormorant&family=Podkova&display=swap"
+# fontLink = 'fonts/F25_Executive.otf'
 themeColor = "#3877ff"
 backgroundColor = "#f2f6f7"
 specialColor = "#006fff"
+customCss = ["assets/custom.scss"]
+# fontFamily = "Monospace"
 
+# "https://fonts.googleapis.com/css2?family=Caveat&family=Cormorant&family=Podkova&display=swap"
 
 [menu]
 
@@ -40,17 +42,12 @@ specialColor = "#006fff"
   weight = 3
 
 [[menu.pages]]
-  name = 'pins'
-  url = 'https://aaranya.vercel.app'
-  weight = 4
-
-[[menu.pages]]
   name = 'blog'
   url = '/blog'
-  weight = 5
+  weight = 4
 
 [[menu.pages]]
   name = 'shelf'
   url = '/shelf'
-  weight = 6
+  weight = 5
 
