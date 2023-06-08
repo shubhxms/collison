@@ -4,8 +4,4 @@ url: /now
 showtitle: true
 ---
 
-these days i am mostly learning about databases, APIs, graph theory[^1] and programmable money.
-
-i am also working on making [lyfmemo](https://lyfmemo.vercel.app/) better.
-
-[^1]: for a course i am taking and because it is fun, which is why i am taking the course, see [/coursework](/coursework)
+working on lots of stuff. will update later. Follow me on [twitter/@shubhxms](https://twitter.com/shubhxms) for now :)

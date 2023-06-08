@@ -5,22 +5,18 @@ showtitle: true
 ---
 
 * [lyfmemo](https://lyfmemo.vercel.app/)
-  * memos app
-  * react, chakra ui
-* [infinity portal](https://infinityportal.vercel.app/)
-* [no cap](https://no-cap.vercel.app/)
-* [cydekyk](https://cydekyk.vercel.app/)
-* [nocap](https://no-cap.netlify.app/)
-  * case converter utilities
-* [nocap | CLI](https://gtihub.com/shubhxms/nocap)
-  * case converter utilities
-  * Rust, CLI
-* [fintra](https://github.com/shubhxms/fintra)
-  * finance tracker -- CLI application
-  * python, CLI
-  * with a friend
-*  [toucri](https://github.com/shubhxms/TouCri)
-   * cricket tournament tracker
-   * python, CLI
-   * with a friend
+  * a webapp that classifies quick jots (memos) on the basis of keywords
+  * built using react js and chakra ui - [github repo](https://github.com/shubhxms/lyfmemo)
 
+* [no cap (webapp)](https://no-cap.vercel.app/) & [no cap (cli)](https://no-cap.netlify.app/)
+  * a quick ship to allow you to play with letter casing
+  * the webapp is built using reactjs - [github repo](https://github.com/shubhxms/no-cap)
+  * the CLI is built in rust - [github repo](https://github.com/shubhxms/nocap)
+
+* [rubiks cube timer](https://cubetimer.vercel.app/)
+  * an application to track and visualize your rubiks cube solves
+  * built using nextjs and chakra ui - [github repo](https://github.com/shubhxms/cubetimer)
+
+* [cydekyk](https://cydekyk.vercel.app/)
+  * a store on solana
+  * built using react, following a tutorial - [github repo](https://github.com/shubhxms/cydekyk)

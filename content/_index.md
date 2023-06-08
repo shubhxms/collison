@@ -5,14 +5,13 @@ description: "personal site of shubham shah"
 
 
 <!-- <hr/> -->
-![me](/photos/catwhite.jpg)
 
 # <h1 class="block fixed header-block">shubham shah</h1>
 
 I am Shubham, a <span class="block fixed inline highlight-block">computer craftsman</span>.
 I have varied interests spanning building stuff, computer science, internet businesses, memes and art.
 
-Currently, I am making multiple things on the side. Follow me on [twitter/@shubhxms](https://twitter.com/shubhxms) for live updates.
+Currently, I am making multiple things on the side. Follow me on [twitter/@shubhxms](https://twitter.com/shubhxms) for live updates. See [<span class="block inline int-link-block">/now</span>](/now) page.
 
 ## Best Work
 
@@ -28,7 +27,7 @@ I participated in [Buildspace Nights and Weekends](https://buildspace.so/) S3 an
 For a complete record of my creations, visit my [Github](https://github.com/shubhxms) and [<span class="block inline int-link-block">/craft</span>](/craft) page.
 
 ##  Collaboration 
-I would love to collaborate. Please reach out on [twitter/@shubhxms](https://twitter.com/shubhxms) and [telegram](https://telegram.me/shubhxms) at [@shubhxms](/links).
+I am open to collaboration across domains. Please reach out on [twitter](https://twitter.com/shubhxms) and [telegram](https://telegram.me/shubhxms) at [@shubhxms](/links).
 
 ##  Other 
 I am a 20yo CS undergrad at [Ahmedabad Uni](https://ahduni.edu.in)

@@ -1,6 +1,11 @@
 
 @media screen and (max-device-width: 600px){
 
+.project-block{
+  padding-top: 0px;
+  padding-bottom: 0px;
+}
+
 body{
   font-size: 40px !important;
 }
@@ -78,14 +83,30 @@ p{
 }
 
 .main p, .main ul{
-  line-height: 4vh;
+  line-height: 2rem;
 }
 
-/*.main a{
-  text-underline-offset: 3px;
-
+.main ul {
+  text-align:-webkit-match-parent;
 }
-*/
+
+.main li{
+  text-align:-webkit-match-parent
+}
+
+sup, sub {
+  vertical-align: baseline;
+  position: relative;
+  top: -0.4em;
+}
+sub { 
+  top: 0.4em; 
+}
+
+ul{
+  line-height: 2rem;
+}
+
 }
 
 
