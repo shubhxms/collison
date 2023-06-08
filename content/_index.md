@@ -10,7 +10,7 @@ description: "personal site of shubham shah"
 # <h1 class="block fixed header-block">shubham shah</h1>
 
 I am Shubham, a <span class="block fixed inline highlight-block">computer craftsman</span>.
-I have varied interests spanning building stuff using code, computer science, internet businesses, memes and art.
+I have varied interests spanning building stuff, computer science, internet businesses, memes and art.
 
 Currently, I am making multiple things on the side. Follow me on [twitter/@shubhxms](https://twitter.com/shubhxms) for live updates.
 
