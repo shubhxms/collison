@@ -27,27 +27,27 @@ customCss = ["assets/custom.scss"]
 [menu]
 
 [[menu.pages]]
-  name = 'about'
+  name = 'about.'
   url = '/'
   weight = 1
 
 [[menu.pages]]
-  name = 'craft'
+  name = 'craft.'
   url = '/craft'
   weight = 2
 
 [[menu.pages]]
-  name = 'now'
+  name = 'now.'
   url = '/now'
   weight = 3
 
 [[menu.pages]]
-  name = 'blog'
+  name = 'blog.'
   url = '/blog'
   weight = 4
 
 [[menu.pages]]
-  name = 'shelf'
+  name = 'shelf.'
   url = '/shelf'
   weight = 5
 
