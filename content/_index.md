@@ -7,7 +7,7 @@ description: "personal site of shubham shah"
 <!-- <hr/> -->
 ![me](/photos/catwhite.jpg)
 
-# <h1 class="block fixed header-block">personal website of mr. shubham shah</h1>
+# <h1 class="block fixed header-block">shubham shah</h1>
 
 I am Shubham, a <span class="block fixed inline highlight-block">computer craftsman</span>.
 I have varied interests spanning building stuff using code, computer science, internet businesses, memes and art.
