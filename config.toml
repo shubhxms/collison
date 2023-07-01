@@ -41,10 +41,10 @@ customCss = ["assets/custom.scss"]
   url = '/now'
   weight = 3
 
-[[menu.pages]]
-  name = 'blog.'
-  url = '/blog'
-  weight = 4
+# [[menu.pages]]
+#   name = 'blog.'
+#   url = '/blog'
+#   weight = 4
 
 [[menu.pages]]
   name = 'shelf.'
