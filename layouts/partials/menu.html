@@ -1,8 +1,8 @@
-<div id="menu">
+<div id="menu" class="block fixed inline">
    <span class=title>{{$.Site.Title}}</span>
 <ul>
     {{ range .Site.Menus.pages }}
-    <li><a href="{{ .URL }}"> {{ .Name }} </a></li>
+    <a href="{{ .URL }}"> <li>{{ .Name }} </li></a>
     {{ end }}
 </ul>
 </div>

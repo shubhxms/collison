@@ -4,6 +4,10 @@ url: /craft
 showtitle: true
 ---
 
+* [Go Peek](https://github.com/shubhxms/gopeek)
+  * CLI to peek at a CSV file in the terminal
+  * made in golang
+
 * [lyfmemo](https://lyfmemo.vercel.app/)
   * a webapp that classifies quick jots (memos) on the basis of keywords
   * built using react js and chakra ui - [github repo](https://github.com/shubhxms/lyfmemo)
