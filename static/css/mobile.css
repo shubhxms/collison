@@ -104,7 +104,7 @@ sub {
   top: 0.4em; 
 }
 
-ul{
+ul li{
   line-height: 2rem;
 }
 
