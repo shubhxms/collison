@@ -19,6 +19,7 @@ body{
   font-size: 36px !important;
   margin-left: 10%;
   margin-right: 2%;
+  margin-bottom: 30px;
 }
 
 h1, h2, h3 {
@@ -31,20 +32,20 @@ h1, h2, h3 {
 
 #menu li{
   display:  inline-block;
-  margin:  10px 0px 0 0px;
+  margin:  5px 0px 0 0px;
 
 }
 
 #menu li:before {
-content: '• ';
+content: '•';
 }
 
 #menu li:first-child:before {
-content: '• ';
+content: '•';
 }
 
 #menu li:last-child:after {
-content: ' •';
+content: '•';
 }
 
 p{
