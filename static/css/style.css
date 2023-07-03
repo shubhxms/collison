@@ -168,6 +168,7 @@ h1,
 h2 {
   font-size: x-large;
   text-decoration: overline;
+  margin-left: 10px;
 }
 
 .special > * {
@@ -212,9 +213,9 @@ body {
 @media (min-width: 801px) {
   /* DEFAULT VARIABLES */
   body {
-    --block-text-color: #222;
+    --block-text-color: #000000;
     --block-background-color: #fff;
-    --block-accent-color: #00ae86;
+    --block-accent-color: aliceblue;
     --block-shadow-color: #444;
   }
 
