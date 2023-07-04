@@ -4,6 +4,10 @@ url: /craft
 showtitle: true
 ---
 
+* [Graffio](https://graffio.xyz) // [CLI](https://github.com/shubhxms/graffio)
+  * I built the CLI for posting to the wall
+  * built in golang
+
 * [Go Peek](https://github.com/shubhxms/gopeek)
   * CLI to peek at a CSV file in the terminal
   * made in golang

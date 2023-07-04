@@ -18,10 +18,10 @@ Currently, I am learning <span class="block fixed inline highlight-block">backen
 
 The best of what I have built includes
 
+* [Graffio](https://graffio.xyz) - I built the [CLI](https://github.com/shubhxms/graffio) for posting
 * [Go Peek](https://github.com/shubhxms/gopeek) - CLI to peek at a CSV file in the terminal
-* [Lyf Memo](https://lyfmemo.vercel.app/) memo auto-classifier 
-* [Cube Timer](https://cubetimer.vercel.app/) timer and statistic tracker for solves of Rubik's cube 
-* [Cyde Kyk](https://cydekyk.vercel.app/) store powered by the Solana chain, and
+* [Lyf Memo](https://lyfmemo.vercel.app/) memo auto-classifier
+* [Cube Timer](https://cubetimer.vercel.app/) timer and statistic tracker for solves of Rubik's cube, and
 * [No Cap](https://gtihub.com/shubhxms/nocap) case converter CLI in rust
 <!-- <div class="block inline project-block"> -->
 I participated in [Buildspace Nights and Weekends](https://buildspace.so/) S3 and  [S2](https://polygonscan.com/tx/0xb78eeb255a386d49f7d00859568370da52566184400727c4baa4fdf8c7dd6210).
