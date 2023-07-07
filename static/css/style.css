@@ -140,14 +140,14 @@ html ::selection {
 }
 
 .main {
-  float: right;
   width: 50vw;
-  margin-left: 200px;
+  margin-left: 25vw;
   margin-top: 1px;
   margin-bottom: 10px;
   height: 90vh;
   padding-right: 180px;
   z-index: 10;
+  
   /* font-family: Executive !important; */
 }
 
