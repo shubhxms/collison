@@ -14,11 +14,11 @@ body{
   margin-top: 30px;
   /* margin-right: 3%; */
   text-align: center;
-  width: 80%;
-  float:left; 
+  /* width: 75%; */
+  /* float:left;  */
   font-size: 36px !important;
-  margin-left: 10%;
-  margin-right: 2%;
+  /* margin-left: 10%; */
+  /* margin-right: 2%; */
   margin-bottom: 30px;
 }
 
@@ -73,18 +73,18 @@ p{
 
 .main {
   margin-top: 80px;
-  float: left;
-  width: 75vw;
-  font-size: 3vmin !important;
-  margin-left: 10%;
-  margin-right: 2%;
-  line-height: 46px;
+  /* float: left; */
+  min-width: 90vw;
+  /* font-size: 3vmin !important; */
+  /* margin-left: 10%; */
+  /* margin-right: 2%; */
+  line-height: 4rem;
   border:none !important;
-  padding: 0 !important;
+  /* padding: 0 !important; */
 }
 
 .main p, .main ul{
-  line-height: 2rem;
+  line-height: 4rem;
 }
 
 .main ul {
@@ -92,7 +92,8 @@ p{
 }
 
 .main li{
-  text-align:-webkit-match-parent
+  text-align:-webkit-match-parent;
+  line-height: 4rem;
 }
 
 sup, sub {
